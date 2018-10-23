@@ -44,9 +44,7 @@ swagger.json > ascii-doc > HTML まで変換する
 
 ### Swagger定義ファイルからascii-docを出力
 
-swagger2markup-cliにおまかせ
-
-[https://github.com/Swagger2Markup/swagger2markup-cli:embed:cite]
+[swagger2markup-cli GitHub](https://github.com/Swagger2Markup/swagger2markup-cli)
 
 - [GitHub](https://github.com/Swagger2Markup/swagger2markup-cli) からクローン
 - gradleビルドしてjarを生成
@@ -69,7 +67,7 @@ $  java -jar swagger2markup-cli-1.3.3.jar convert -i sample.json -f api-doc
 
 asciidoctorにおまかせ
 
-[https://github.com/asciidoctor/asciidoctor/blob/master/README-jp.adoc:embed:cite]
+[asciidoctor GitHub](https://github.com/asciidoctor/asciidoctor/blob/master/README-jp.adoc)
 
 ```shellscript
 ### install
